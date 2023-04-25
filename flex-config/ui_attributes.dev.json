@@ -1,6 +1,6 @@
 {
   "custom_data": {
-    "serverless_functions_domain": "<PLACEHOLDER_SERVERLESS_DOMAIN>",
+    "serverless_functions_domain": "custom-flex-extensions-serverless-5340-dev.twil.io",
     "features": {
       "activity_skill_filter": {
         "rules": {
