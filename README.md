@@ -6,7 +6,7 @@
 
 ---
 
-# Flex Project Template
+# Flex Project Ultim CallCenter
 
 The _Flex Project Template_ is a starting point for Flex solutions of any size. It proposes recommendations around package structure and solution management. It can be used for large projects or simple standalone features.
 
